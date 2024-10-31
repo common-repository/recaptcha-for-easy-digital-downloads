@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Recaptcha for EDD\n"
+"POT-Creation-Date: 2015-11-22 20:45+0200\n"
+"PO-Revision-Date: 2015-11-22 20:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_attr_e;_n;esc_html_e;esc_html__;"
+"esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-tf-edd-recaptcha-public.php:85
+msgid "Public key not provided"
+msgstr ""
+
+#: includes/class-tf-edd-recaptcha-server.php:102
+msgid "Please, pass reCAPTCHA validation"
+msgstr ""
+
+#: includes/class-tf-edd-recaptcha-server.php:114
+msgid "reCAPTCHA validation failed, please try again"
+msgstr ""
+
+#: includes/class-tf-edd-recaptcha-settings.php:51
+msgid "reCAPTCHA"
+msgstr ""
+
+#: includes/class-tf-edd-recaptcha-settings.php:68
+#, php-format
+msgid "Set reCAPTCHA keys. Create your own keys you can %s"
+msgstr ""
+
+#: includes/class-tf-edd-recaptcha-settings.php:69
+msgid "here"
+msgstr ""
+
+#: includes/class-tf-edd-recaptcha-settings.php:75
+msgid "reCAPTCHA in register form"
+msgstr ""
+
+#: includes/class-tf-edd-recaptcha-settings.php:76
+msgid "Add reCAPTCHA validation into EDD register account form."
+msgstr ""
+
+#: includes/class-tf-edd-recaptcha-settings.php:81
+msgid "reCAPTCHA in login form"
+msgstr ""
+
+#: includes/class-tf-edd-recaptcha-settings.php:82
+msgid "Add reCAPTCHA validation into EDD login into account form."
+msgstr ""
+
+#: includes/class-tf-edd-recaptcha-settings.php:92
+msgid "Public key"
+msgstr ""
+
+#: includes/class-tf-edd-recaptcha-settings.php:93
+msgid "Put your public key for reCAPTCHA here."
+msgstr ""
+
+#: includes/class-tf-edd-recaptcha-settings.php:98
+msgid "Secret key"
+msgstr ""
+
+#: includes/class-tf-edd-recaptcha-settings.php:99
+msgid "Put your secret key for reCAPTCHA here."
+msgstr ""
+
+#: recaptcha-for-edd.php:145
+msgid ""
+"reCAPTCHA for Easy Digital Downloads is enabled but not effective. It "
+"requires Easy Digital Downloads in order to work."
+msgstr ""
